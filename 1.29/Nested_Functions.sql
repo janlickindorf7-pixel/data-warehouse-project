@@ -41,3 +41,4 @@ FROM skill_struct;
     UNION ALL
     SELECT 'r', 'programming';
 
+    
